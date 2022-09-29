@@ -23,3 +23,6 @@ void PrintArray(string[] array)
 
 string[] array1 = new string[5] { "a", "ab", "abc", "12", "12345678990" };
 string[] array2 = new string[array1.Length];
+
+FillArray(array1, array2);
+PrintArray(array2);
