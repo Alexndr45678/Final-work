@@ -8,3 +8,5 @@
 ### 2. Описываем метод печати массива на экран *(PrintArray)*.
 ### 3. Затем объявляем два массива: *array1* и *array2* одинаковой длины.
 ### 4. Вызываем описанные методы заполнения (FillArray) и печати (PrintArray) двух массивов (array1 и array2).
+
+## Ссылка на блок схему: https://app.diagrams.net/#G1SDfeVZL_LM9_Lz14heJX2_xDrvZaCkgd
